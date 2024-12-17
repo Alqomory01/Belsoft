@@ -147,7 +147,7 @@ const Myhero = () => {
 
         </div>
         <nav class='footerright'>
-        <ul class='sm:flex pl-4 space-x-1 text-sm    md:flex justify-center items-center space-x-5 text-xl font-bold transform translate-x-4'>
+        <ul class='sm:hidden md:flex justify-center items-center space-x-5 text-xl font-bold transform translate-x-4'>
             <li class='text-purple-900'><Link to='/'>Home</Link></li>
             <li><Link to='/about'>About</Link></li>
             <li><Link to='/services'>Services</Link></li>
