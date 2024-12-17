@@ -58,9 +58,9 @@ const Myhero = () => {
         </div>
         </div>
         <div>
-            <p class='text-center font-bold'>What We Offer</p>
+            <p class='text-center mt-10 font-bold'>What We Offer</p>
         </div>
-        <div class='grid grid-rows-6 gap-y-3 place-items-center mt-10 mb-10 '>
+        <div class='grid grid-rows-6 gap-y-3 place-items-center mt-4 mb-10 '>
         <div class='grid grid-cols-4 gap-x-6 place-items-center mt-4 '>
         <p class='  w-8 h-8 bg-purple-900 rounded-full ml-12 '></p>
         <h3>Monthly Meetup</h3>
