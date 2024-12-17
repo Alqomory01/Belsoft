@@ -60,7 +60,7 @@ const Myhero = () => {
         <div>
             <p class='text-center mt-10 font-bold'>What We Offer</p>
         </div>
-        <div class='grid grid-rows-6 gap-y-3 place-items-center mt-4 mb-10 '>
+        <div class='grid grid-rows-6 gap-y-3 place-items-center mt-4 mb-5 '>
         <div class='grid grid-cols-4 gap-x-6 place-items-center mt-4 '>
         <p class='  w-8 h-8 bg-purple-900 rounded-full ml-12 '></p>
         <h3>Monthly Meetup</h3>
@@ -94,7 +94,7 @@ const Myhero = () => {
         </div>
         
         </div>
-        <div class='sm:p-3 flex flex-col md:flex-row w-full items-center justify-center mt-10 mb-10'>
+        <div class='sm:p-3 flex flex-col md:flex-row w-full items-center justify-center mt-5 mb-10'>
             <div class='sm:pl-2 md:w-1/2 pl-10'>
         <img class='md:w-[500px]' style={{borderRadius:'10px'}} src={sectionImage} alt={sectionImage}/>
         </div>
