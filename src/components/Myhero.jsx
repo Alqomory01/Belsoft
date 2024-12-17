@@ -57,43 +57,42 @@ const Myhero = () => {
         </div>
         </div>
         </div>
+        <div>
+            <p class='text-center font-bold'>What We Offer</p>
+        </div>
         <div class='grid grid-rows-6 gap-y-3 place-items-center mt-10 mb-10 '>
         <div class='grid grid-cols-4 gap-x-6 place-items-center mt-4 '>
-        <p class='  w-12 h-12 bg-purple-900 rounded-full ml-12 '></p>
+        <p class='  w-8 h-8 bg-purple-900 rounded-full ml-12 '></p>
         <h3>Monthly Meetup</h3>
         <p class='text-xs md:text-sm '>Our Cornerstone event, held on the last Friday of every month, featuring keynote speakers, panel discussions, and ample networking opportunities</p>
         <p><FaPlus /></p>
         </div>
         <div class='grid grid-cols-4 gap-x-6 place-items-center'>
-        <p class=' w-12 h-12 bg-purple-900 rounded-full ml-12 '></p>
-        <h3>Monthly Meetup</h3>
-        <p class='text-xs md:text-sm '>Our Cornerstone event, held on the last Friday of every month, featuring keynote speakers, panel discussions, and ample networking opportunities</p>
+        <p class=' w-8 h-8 bg-purple-900 rounded-full ml-12 '></p>
+        <h3>Diverse Network</h3>
+        <p class='text-xs md:text-sm '>Connect with a wide range of prefessionals, from early-stageb founders to seasoned entrepreneurs, investors and industry experts</p>
         <p><FaPlus /></p>
         </div>
         <div class='grid grid-cols-4 gap-x-6 place-items-center'>
-        <p class=' w-12 h-12 bg-purple-900 rounded-full ml-12 '></p>
-        <h3>Monthly Meetup</h3>
-        <p class='text-xs md:text-sm '>Our Cornerstone event, held on the last Friday of every month, featuring keynote speakers, panel discussions, and ample networking opportunities</p>
+        <p class=' w-8 h-8 bg-purple-900 rounded-full ml-12 '></p>
+        <h3>Knowledge Sharing</h3>
+        <p class='text-xs md:text-sm '>Connect with a wide range of prefessionals, from early-stageb founders to seasoned entrepreneurs, investors and industry experts</p>
+        <p><FaPlus /></p>
+        </div>
+        
+        <div class='grid grid-cols-4 gap-x-6 place-items-center'>
+        <p class=' w-8 h-8 bg-purple-900 rounded-full ml-12 '></p>
+        <h3>Collaboration Opportunities </h3>
+        <p class='text-xs md:text-sm '>Find Potential co-founders, mentors or partners for your next big venture</p>
         <p><FaPlus /></p>
         </div>
         <div class='grid grid-cols-4 gap-x-6 place-items-center'>
-        <p class=' w-12 h-12 bg-purple-900 rounded-full ml-12 '></p>
-        <h3>Monthly Meetup</h3>
-        <p class='text-xs md:text-sm '>Our Cornerstone event, held on the last Friday of every month, featuring keynote speakers, panel discussions, and ample networking opportunities</p>
+        <p class=' w-8 h-8 bg-purple-900 rounded-full ml-12 '></p>
+        <h3>Community Support</h3>
+        <p class='text-xs md:text-sm '>Be part of a supportive ecosystem that celebrates successes and provides guidance through challenges</p>
         <p><FaPlus /></p>
         </div>
-        <div class='grid grid-cols-4 gap-x-6 place-items-center'>
-        <p class=' w-12 h-12 bg-purple-900 rounded-full ml-12 '></p>
-        <h3>Monthly Meetup</h3>
-        <p class='text-xs md:text-sm '>Our Cornerstone event, held on the last Friday of every month, featuring keynote speakers, panel discussions, and ample networking opportunities</p>
-        <p><FaPlus /></p>
-        </div>
-        <div class='grid grid-cols-4 gap-x-6 place-items-center'>
-        <p class=' w-12 h-12 bg-purple-900 rounded-full ml-12 '></p>
-        <h3>Monthly Meetup</h3>
-        <p class='text-xs md:text-sm'>Our Cornerstone event, held on the last Friday of every month, featuring keynote speakers, panel discussions, and ample networking opportunities</p>
-        <p><FaPlus /></p>
-        </div>
+        
         </div>
         <div class='sm:p-3 flex flex-col md:flex-row w-full items-center justify-center mt-10 mb-10'>
             <div class='sm:pl-2 md:w-1/2 pl-10'>
